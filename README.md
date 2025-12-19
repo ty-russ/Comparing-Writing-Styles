@@ -1,6 +1,6 @@
 # Comparing Writing Style Across Reuters Regions
 
-Short project to extract, clean and analyze writing style differences between Reuters articles by region (US vs Europe). The analysis pipeline extracts articles, computes linguistic features (POS, NER, sentiment, embeddings), runs topic modeling and classification, and outputs CSVs and per-article text files.
+Project to extract, clean and analyze writing style differences between Reuters articles by region (US vs Europe). The analysis pipeline extracts articles, computes linguistic features (POS, NER, sentiment, embeddings), runs topic modeling and classification, and outputs CSVs and per-article text files.
 
 ## Key files
 - [extract_reuters.py](extract_reuters.py) — SGM parsing utilities (see functions [`get_first`](extract_reuters.py) and [`parse_reuters_sgm`](extract_reuters.py)).
