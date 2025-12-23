@@ -136,4 +136,4 @@ The notebook:
 - Use `output/features_with_topics.csv` as the consolidated feature table for ML experiments.
 
 ## License
-Choose an appropriate license for your work (e.g., MIT). Add `LICENSE` file if needed.
+  MIT
